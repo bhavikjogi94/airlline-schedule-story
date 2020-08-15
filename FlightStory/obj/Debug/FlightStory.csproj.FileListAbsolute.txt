@@ -1,0 +1,10 @@
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\bin\Debug\FlightStory.exe.config
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\bin\Debug\FlightStory.exe
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\bin\Debug\FlightStory.pdb
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\obj\Debug\FlightStory.csprojAssemblyReference.cache
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\obj\Debug\FlightStory.csproj.CoreCompileInputs.cache
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\obj\Debug\FlightStory.exe
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\obj\Debug\FlightStory.pdb
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\bin\Debug\Newtonsoft.Json.dll
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\bin\Debug\Newtonsoft.Json.xml
+C:\Bhavik Home Projects\TechnicalAssessment\FlightStory\FlightStory\obj\Debug\FlightStory.csproj.CopyComplete
